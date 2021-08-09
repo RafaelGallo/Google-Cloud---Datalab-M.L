@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/Matplotlib-blue.svg)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/Seaborn-green.svg)](https://seaborn.pydata.org/)
 [![](https://img.shields.io/badge/Matplotlib-orange.svg)](https://scikit-learn.org/stable/) 
+[![](https://img.shields.io/badge/Scikit-Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-White.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/GCP-write.svg)](https://cloud.google.com/) 
 [![](https://img.shields.io/badge/Datalab-blue.svg)](https://cloud.google.com/datalab/docs)
