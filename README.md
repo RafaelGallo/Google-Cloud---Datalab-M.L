@@ -11,8 +11,6 @@
 [![](https://img.shields.io/badge/GCP-write.svg)](https://cloud.google.com/) 
 [![](https://img.shields.io/badge/Datalab-blue.svg)](https://cloud.google.com/datalab/docs)
 
-![IMG](https://github.com/RafaelGallo/Google-Cloud---Datalab-machine-learning-/blob/main/im/001.gif)
-
 Projeto de marketing digital neste projeto modelo de machine learning previsão de clientes no site.
 
 # Ferramentas
